@@ -1,3 +1,7 @@
+class Student {
+	
+}
+
 class Demo {
 	
 }
